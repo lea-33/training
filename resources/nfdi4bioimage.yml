@@ -4246,7 +4246,7 @@ resources:
 - authors:
   - Juan Nunez-Iglesias et al.
   description: skimage-tutorials - a collection of tutorials for the scikit-image package.
-  license: CC0 1.0 Universal
+  license: CC0-1.0 Universal
   name: skimage-tutorials
   tags:
   - Bioimage Analysis
@@ -4760,19 +4760,55 @@ resources:
   type:
   - Online Tutorial
   url: https://omero-guides.readthedocs.io/en/latest/fiji/docs/index.html   
+- description: QuPath is a free open-source cross-platform software application designed for bioimage analysis - 
+  and specifically to meet the needs of whole slide image analysis and digital pathology. 
+  We demonstrate how to integrate QuPath and OMERO using the User Interface.
+  license: BSD-2_CLAUSE
+  name: QuPath
+  tags:
+  - OMERO
+  - Bioimage Analysis
+  type:
+  - Website
+  - Online Tutorial
+  url:  https://omero-guides.readthedocs.io/en/latest/qupath/docs/index.html
+- description: Now, images stored in local OMERO databases that are not publicly available are accessible from either public or private Galaxy instances.
+  license: CC0-1.0
+  name: Images stored in local OMERO instances are now available from Galaxy
+  tags:
+  - OMERO
+  - Image Data Management
+  type:
+  - Online-Tutorial
+  publication_date: '2020-11-23'
+  url: https://usegalaxy-eu.github.io/posts/2020/11/23/OMERO-post/
+- authors: 
+  - Berenice Batut
+  - Saskia Hiltemann
+  description: This website is a collection of hands-on tutorials that are designed to be interactive and are built around Galaxy.
+  license: CC-BY-4.0
+  name: Collection of tutorials developed and maintained by the worldwide Galaxy community 
+  tags:
+  - Data Analysis
+  - Galaxy 
+  type:
+  - Collection
+  - Tutorial
+  - Website
+  url: https://training.galaxyproject.org/
   
 - authors: 
-  description:
-  license:
-  name: 
+  -
+  description:  
+  license: 
+  name:  
   tags:
   - 
   type:
   - 
   num_downloads:
   publication_date:
-  url: 
-
+  url:
 
 
 
